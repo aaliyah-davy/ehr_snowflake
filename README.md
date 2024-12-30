@@ -1,4 +1,4 @@
-  # EHR data, Snowflake warehousing, Git commits
-Synthesized EHR data engineering project using Snowflake and pushing with git 
+  # EHR data, Snowflake warehousing
+Synthesized EHR data engineering project using Snowflake
 
 (data via: Synthea)
